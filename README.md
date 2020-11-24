@@ -2,4 +2,6 @@
 
 ## Hi I am Leo! 
 
+<img src="https://media.giphy.com/media/JTheOT8fz6vMzQeFmB/giphy.gif"/>
+
 - 📍 From São Paulo
